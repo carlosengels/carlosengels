@@ -2,7 +2,7 @@
 #### Carlos Engels || Backend Developer
 ![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background_landscape.png)
 
-I'm Carlos, a Denver based Dev. My main language is Java but I really enjoy writing in Python and Golang as well. I love network stuff cyber and got a good kick out of learning for the CompTIA Network+ and Security+ certifications.
+I'm Carlos, a Denver based Dev. My main language is Java but I really enjoy writing in Python and Golang as well. I love network security stuff and learend a lot while working to achieve the the CompTIA Network+ and Security+ certifications. I also have gathered a lot of experience working with REST APIs (specifically AWS) in the last couple of months.
 
 :hammer_and_wrench: Skills: Java // AWS // APIs // SQL :hammer_and_wrench:
 
