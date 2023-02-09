@@ -1,6 +1,6 @@
 ### Hi there 👋, Carlos Engels
 #### Backend Developer
-![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background.jpg)
+![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background_landscape.pngg)
 
 I'm Carlos a Denver based Dev. My main language is Java but I really enjoy writing in Python and Golang as well. I love network stuff cyber and got a good kick out of learning for the CompTIA Network+ and Security+ certifications.
 
