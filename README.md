@@ -4,7 +4,7 @@
 
 I'm Carlos a Denver based Dev. My main language is Java but I really enjoy writing in Python and Golang as well. I love network stuff cyber and got a good kick out of learning for the CompTIA Network+ and Security+ certifications.
 
-:hammer_and_wrench: Skills: Java // AWS // APIs // SQL :hammer_and_wrench: Skills:
+:hammer_and_wrench: Skills: Java // AWS // APIs // SQL :hammer_and_wrench:
 
 - 🔭 I’m currently working on BloomTech Backend Developement 
 - 💬 Ask me about why I want to name my first child Json 
