@@ -2,14 +2,24 @@
 #### Carlos Engels || Backend Developer
 ![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background_landscape.png)
 
-I'm Carlos, a Denver based Dev. My main language is Java but I really enjoy writing in Python and Golang as well. I love network security stuff and learend a lot while working to achieve the the CompTIA Network+ and Security+ certifications. I also have gathered a lot of experience working with REST APIs (specifically AWS) in the last couple of months.
+I'm a Backend Developer with experience in software development, AWS implementation, deployment and configuration.
 
-:hammer_and_wrench: Skills: Java // AWS // APIs // SQL :hammer_and_wrench:
+I've worked in a helpdesk environment which serviced clients globally and I was able to perfect solving problems, one ticket at a time. With my problem-solving mindset and software development skills I identify and address complex business challenges such as scaling support for applications. Now I've embarked on the software development journey with the goal to help organizations scale their operations reliably. 
 
-- 🔭 I’m currently working on BloomTech Backend Developement 
-- 💬 Ask me about why I want to name my first child Json 
-- 📫 How to reach me: engels.carlos@gmail.com 
-- 😄 Pronouns: He / Him 
+As the world has become more technologically interconnected and vulnerable I want to bring my passion for threat mitigation to my future employer. By leveraging the experience that I gained through the CompTIA Security+ certification and my personal CLI port scanner project I will bring security awareness to my next development role.
+
+
+🔨 SKILLS & ABILITIES:
+▪️ Java Software Engineering
+▪️ Development and Deployment of AWS solutions
+▪️ Network and Application Security
+▪️ Threat and Vulnerability awareness training
+▪️ Application Support
+▪️ Systems Troubleshooting
+▪️ Technical Writing
+
+Always happy to chat:
+✉️ engels.carlos@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carlosengels)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/carlos-engels-backend-developement//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.carlosengels.com)  
