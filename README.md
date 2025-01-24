@@ -2,20 +2,13 @@
 #### Carlos Engels || Backend Developer
 ![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background_landscape.png)
 
-I'm a Backend Developer with experience in software development, AWS implementation, deployment and configuration.
-
-I've worked in a helpdesk environment which serviced clients globally and I was able to perfect solving problems, one ticket at a time. With my problem-solving mindset and software development skills I identify and address complex business challenges such as scaling support for applications. Now I've embarked on the software development journey with the goal to help organizations scale their operations reliably. 
-
-As the world has become more technologically interconnected and vulnerable I want to bring my passion for threat mitigation to my future employer. By leveraging the experience that I gained through the CompTIA Security+ certification and my personal CLI port scanner project I will bring security awareness to my next development role.
-
+SRE/DEVOPS/DEV/QA
 
 🔨 SKILLS & ABILITIES:
-▪️ Java Software Engineering
+▪️ Java/Python/Bash Software Engineering
+▪️ Monitoring and Observability
 ▪️ Development and Deployment of AWS solutions
 ▪️ Network and Application Security
-▪️ Threat and Vulnerability awareness training
-▪️ Application Support
-▪️ Systems Troubleshooting
 ▪️ Technical Writing
 
 Always happy to chat:
