@@ -1,4 +1,4 @@
-👋	:robot:
+👋
 #### Carlos Engels
 ![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background_landscape.png)
 
