@@ -4,7 +4,7 @@
   
 ![Backend Developer](https://github.com/carlosengels/carlosengels/blob/main/background_landscape.png)
 
-### 🚀 SRE • DevOps • Backend Developer • QA Engineer
+### 🚀 SRE • DevOps • Backend Developer
 
 *Building robust, scalable solutions that keep the digital world running smoothly*
 
