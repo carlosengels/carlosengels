@@ -16,7 +16,7 @@
 
 <div align="center">
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=carlosengels&theme=dark&hide_border=true&stroke=0000F&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosengels)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosengels&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397)
 
@@ -95,10 +95,8 @@ expertise:
 
 ## 📊 Current Focus
 
-- 🔍 Exploring advanced observability patterns
-- ⚡ Optimizing cloud-native architectures
-- 🛡️ Implementing zero-trust security models
-- 📝 Contributing to open-source DevOps tools
+- I'm currently working on to certifications simultenously have have found a good synergy between both. At the present, my work is heavily focused on working with AWS infrastructure using Terrafrom so I've been following the "Learning Path - Terraform Associate (003). As a company we're also moving towards containerization so I'm following a Udemy course for the KCNA certiciation.
+- There is some very good synergy between working on both certificates through the early stages at the same time since Terraform is well suited for multi-cloud K8s deployments.
 
 ## 📫 Let's Connect!
 
