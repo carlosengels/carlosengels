@@ -31,6 +31,7 @@
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Cloud & Infrastructure
@@ -45,8 +46,6 @@
 
 ### Monitoring & Observability
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -107,7 +106,7 @@ expertise:
 
 **Always happy to chat about tech, collaborate on projects, or discuss opportunities!**
 
-[![Email](https://img.shields.io/badge/Email-engels.carlos@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engels.carlos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello@carlosengels.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@carlosengels.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloud-solutions-carlos/)
 [![Website](https://img.shields.io/badge/Website-carlosengels.com-green?style=for-the-badge&logo=safari&logoColor=white)](https://www.carlosengels.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosengels)
