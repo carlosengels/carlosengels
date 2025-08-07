@@ -114,8 +114,6 @@ expertise:
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Thanks for stopping by! ⭐ Star some repos if you find them interesting!**
+"Every adversity carries with it the seed of an equal or greater benefit." - Seneca
 
 </div>
