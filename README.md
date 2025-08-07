@@ -63,9 +63,8 @@
 ```yaml
 expertise:
   backend_development:
-    - Java enterprise applications
-    - Python automation & APIs
-    - Microservices architecture
+    - Java/GO enterprise applications
+    - Python/Bash automation & APIs
   
   devops_sre:
     - CI/CD pipeline design (GitHub Actions, GitLab CI)
@@ -78,7 +77,7 @@ expertise:
     - Cost optimization strategies
   
   monitoring_observability:
-    - Dynatrace APM & infrastructure monitoring
+    - Dynatrace application & infrastructure monitoring
     - Performance optimization & troubleshooting
     - Real-time alerting & incident response
   
