@@ -94,8 +94,7 @@ expertise:
 
 ## 📊 Current Focus
 
-- I'm currently working on to certifications simultenously have have found a good synergy between both. At the present, my work is heavily focused on working with AWS infrastructure using Terrafrom so I've been following the "Learning Path - Terraform Associate (003). As a company we're also moving towards containerization so I'm following a Udemy course for the KCNA certiciation.
-- There is some very good synergy between working on both certificates through the early stages at the same time since Terraform is well suited for multi-cloud K8s deployments.
+- I'm currently skilling up in K8s by stydying for the KCNA certification and managing my cluster at home.
 
 ## 📫 Let's Connect!
 
