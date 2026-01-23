@@ -16,7 +16,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosengels)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carlosengels)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosengels&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397)
 
